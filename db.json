@@ -1,0 +1,38 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Front-end",
+            "descricao": "uma categoria bacana",
+            "cor": "#cbd1ff",
+            "link_extra": {
+                "text": "Formação de Fron-end na Alura",
+                "url": "htpps://www.alura.com.br/cursos-online-front-end"
+        }
+    },
+        {
+            "id": 2,
+            "nome": "Back-end",
+            "descricao": "outra categoria bacana",
+            "cor": "#cbd1ff",
+            "link_extra": {
+                "text": "Curso de Back-end na Alura",
+                "url": "htpps://www.alura.com.br/cursos-online-programacao"
+        }
+    }
+],
+    "vídeos": [
+        {
+            "id": 1,
+            "categoriaId": 1,
+            "titulo": "SEO com React",
+            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+            "id": 2,
+            "categoriaId": 1,
+            "titulo": "O que faz uma desenvolvedora?",
+            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        }
+    ]
+}
